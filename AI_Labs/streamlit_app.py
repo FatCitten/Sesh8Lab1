@@ -1,6 +1,4 @@
 import streamlit as st
-import langchain_community
-import  openai
 from langchain.llms import OpenAI
 
 st.title('Quickstart App')
